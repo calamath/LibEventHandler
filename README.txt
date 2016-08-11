@@ -10,7 +10,7 @@ it allows for the firing and registering of local events that you create within 
 this powerful tool enables the developer to not only be more flexible with event managing, but also to 
 be more clean, concise, and acyclical with code.
 
-ZOS's EVENT_MANAGER will still need to be used should you require registering any functions for update,
+Zenimax's EVENT_MANAGER will still need to be used should you require registering any functions for update,
 simply because I found theirs to be sufficient and did not need any more versatility.
 
 Again, thanks a bunch! Have fun programming! :)
