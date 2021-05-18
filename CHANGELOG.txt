@@ -5,6 +5,9 @@ https://www.esoui.com/downloads/info1452-LibEventHandler.html
 
 NOTE : this modified version is still under the Artistic License 2.0
 
+Version 1.2.92: (Calamath)
+- Updated API version to 100032 (ESO 6.1.x : Stonethorn)
+
 Version 1.2.91: (Calamath)
 - Updated API version to 100031 (ESO 6.0.x : Greymoor)
 
