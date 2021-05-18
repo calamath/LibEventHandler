@@ -1,0 +1,23 @@
+======================================================================
+This is a modified version of LibEventHandler, originally by Justinon.
+======================================================================
+https://www.esoui.com/downloads/info1452-LibEventHandler.html
+
+NOTE : this modified version is still under the Artistic License 2.0
+
+
+
+------------------------------------------------------------------------------
+The following are changes to the standard version by original author Justinon.
+------------------------------------------------------------------------------
+
+Version 1.2:
+
+- Removed a print statement
+
+
+Version 1.1:
+
+- Changed async to allow for user input for the delay time as opposed to hard codes half a second. Still accepts boolean values
+
+
