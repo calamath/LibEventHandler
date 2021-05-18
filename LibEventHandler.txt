@@ -4,6 +4,7 @@
 ## IsLibrary: true
 ## APIVersion: 100029
 ## AddOnVersion: 1200
+## OptionalDependsOn: LibDebugLogger
 
 LibEventHandler.lua
 
