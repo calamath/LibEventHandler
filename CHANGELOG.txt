@@ -6,6 +6,8 @@ https://www.esoui.com/downloads/info1452-LibEventHandler.html
 NOTE : this modified version is still under the Artistic License 2.0
 
 
+- LibEventHandler library now has its own manifest file and a global variable LibEventHandler for direct access.
+- Updated API version to 100029 (ESO 5.2.5 : Dragonhold)
 
 ------------------------------------------------------------------------------
 The following are changes to the standard version by original author Justinon.
